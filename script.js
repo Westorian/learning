@@ -6,7 +6,7 @@ const personalMovieDB = {
         count: numberOfFilms,
         movies: {},
         actors: {},
-        geners: [],
+        geners: [1],
         privat: false     
 };
 
